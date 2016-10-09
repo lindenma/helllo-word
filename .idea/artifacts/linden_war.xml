@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="linden:war">
+    <output-path>$PROJECT_DIR$/linden/target</output-path>
+    <root id="archive" name="linden.war">
+      <element id="artifact" artifact-name="linden:war exploded" />
+    </root>
+  </artifact>
+</component>
